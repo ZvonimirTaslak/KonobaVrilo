@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Konoba Vrilo</string>
+    <string name="food_menu">Food Menu</string>
+    <string name="drink_menu">Drink Menu</string>
+    <string name="location">Location</string>
+    <string name="contact">Contact</string>
+    <string name="about">About</string>
+    <string name="cover_photo">Cover Photo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="your_email_address">Your e-mail address</string>
+    <string name="message">Message</string>
+    <string name="send_button">Send</string>
+    <string name="your_email_adress_is_empty">Your e-mail address is empty</string>
+    <string name="your_message_is_empty">Your message is empty</string>
+    <string name="choose_application">choose application</string>
+    <string name="specialty">Specialty</string>
+    <string name="wine">Wine</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="exit">Exit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="tekst_o_restoranu">Konoba Vrilo je obiteljski restoran sa ugodnom domaćom atmosferom i vrhunskom domaćom spizom.\nPrave se neretvanski specijaliteti po narudžbi.\nIskusno i ljubazno osoblje obitelji Taslak je uvijek nasmijano i dočekat\' će vas raširenih ruku i srca i učinit će sve da se osjećate kao doma!</string>
+    <string name="insert_your_nickname">insert your nickname</string>
+    <string name="please_insert_nickname">Please insert nickname</string>
+</resources>
